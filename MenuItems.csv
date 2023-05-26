@@ -1,0 +1,48 @@
+Appetizer,Avocado Toast,8.99,TRUE,Avocado/ whole wheat toast/ cherry tomatoes/ feta cheese,Vegetarian/ Healthy,Toasted whole wheat bread topped with smashed avocado/ cherry tomatoes/ and feta cheese. Served with a side of fresh fruit.,08:00,12:00,0,0
+Appetizer,Breakfast Nachos,10.99,TRUE,Scrambled eggs/ tortilla chips/ cheddar cheese/ black beans/ salsa/ sour cream/ guacamole,Mexican/ Spicy,Tortilla chips topped with scrambled eggs/ melted cheddar cheese/ black beans/ salsa/ sour cream/ and guacamole.,08:00,12:00,0,0
+Appetizer,Banana Nut Muffin,3.99,TRUE,Flour/ sugar/ baking powder/ salt/ bananas/ nuts,Vegetarian/ Baked Goods,A classic banana nut muffin with a soft/ moist crumb and a crunchy streusel topping.,08:00,12:00,0,0
+Appetizer,Greek Yogurt Parfait,6.99,FALSE,Greek yogurt/ honey/ granola/ mixed berries,Vegetarian/ Healthy,Layers of creamy Greek yogurt/ sweet honey/ crunchy granola/ and mixed berries.,08:00,12:00,0,0
+Appetizer,Fresh Fruit Cup,4.99,TRUE,Assorted fresh fruits,Vegetarian/ Healthy,A cup filled with a mix of seasonal fresh fruits/ perfect to start your day.,08:00,12:00,0,0
+Entre,Belgian Waffles,11.99,TRUE,Waffle batter/ whipped cream/ mixed berries,Vegetarian/ Baked Goods,Light and crispy Belgian waffles topped with fluffy whipped cream and mixed berries. Served with your choice of bacon or sausage.,08:00,12:00,0,0
+Entre,Breakfast Burrito,9.99,TRUE,Scrambled eggs/ chorizo/ black beans/ cheddar cheese/ salsa,Mexican/ Spicy,A hearty burrito filled with scrambled eggs/ spicy chorizo/ black beans/ melted cheddar cheese/ and salsa. Served with a side of hash browns.,08:00,12:00,0,0
+Entre,Eggs Benedict,12.99,TRUE,English muffin/ poached eggs/ Canadian bacon/ hollandaise sauce,American/ Brunch,A classic brunch dish featuring toasted English muffin halves topped with Canadian bacon/ poached eggs/ and creamy hollandaise sauce. Served with a side of hash browns.,08:00,12:00,0,0
+Entre,Breakfast Quesadilla,10.99,FALSE,Scrambled eggs/ bacon/ cheddar cheese/ pico de gallo/ sour cream,Mexican/ Spicy,A breakfast twist on a classic quesadilla/ with scrambled eggs/ crispy bacon/ melted cheddar cheese/ pico de gallo/ and a dollop of sour cream.,08:00,12:00,0,0
+Entre,Huevos Rancheros,11.99,TRUE,Corn tortillas/ refried beans/ fried eggs/ cheddar cheese/ salsa/ avocado,Mexican/ Spicy,Two corn tortillas topped with refried beans/ fried eggs/ melted cheddar cheese/ salsa/ and sliced avocado. Served with a side of hash browns.,08:00,12:00,0,0
+Desert,Croissant Donut,3.5,TRUE,Flour/ sugar/ butter/ yeast/ eggs/ milk/ cinnamon sugar,Pastry,A pastry hybrid between a croissant and a donut/ crispy on the outside/ flaky on the inside/ dusted with cinnamon sugar,08:00,12:00,0,0
+Desert,Cinnamon Roll,2.5,TRUE,Flour/ sugar/ butter/ yeast/ eggs/ milk/ cinnamon/ vanilla icing,Pastry,A classic pastry made with layers of cinnamon and sugar/ topped with vanilla icing,08:00,12:00,0,0
+Desert,Blueberry Muffin,2,TRUE,Flour/ sugar/ butter/ eggs/ milk/ baking powder/ blueberries,Pastry,A muffin filled with juicy blueberries/ perfect for a morning treat,08:00,12:00,0,0
+Desert,Fruit Tart,4,TRUE,Flour/ sugar/ butter/ eggs/ milk/ fresh fruit/ pastry cream,Pastry,A delicate pastry filled with fresh fruit and pastry cream/ perfect for those who like a light breakfast dessert,08:00,12:00,0,0
+Desert,Chocolate Croissant,3,TRUE,Flour/ sugar/ butter/ yeast/ eggs/ milk/ chocolate,Pastry,A flaky croissant filled with rich chocolate/ perfect for chocolate lovers,08:00,12:00,0,0
+Appetizer,Caprese Salad,8.99,TRUE,Tomatoes/ Fresh Mozzarella/ Basil/ Olive Oil,Vegetarian/ Gluten-free,Fresh tomatoes and mozzarella with basil and drizzled with olive oil.,12:00,16:00,0,0
+Appetizer,Fried Calamari,10.99,TRUE,Calamari/ Flour/ Bread Crumbs/ Salt/ Pepper,Seafood,Fried squid served with marinara sauce and lemon.,12:00,16:00,0,0
+Appetizer,Garlic Bread,5.99,TRUE,French Bread/ Butter/ Garlic/ Parmesan Cheese,Vegetarian,Toasted bread with garlic butter and parmesan cheese.,12:00,16:00,0,0
+Appetizer,Chicken Wings,12.99,TRUE,Chicken Wings/ Flour/ Paprika/ Garlic Powder/ Salt/ Pepper,Poultry,Spicy chicken wings served with blue cheese dressing and celery sticks.,12:00,16:00,0,0
+Appetizer,Nachos,9.99,TRUE,Tortilla Chips/ Cheddar Cheese/ Jalapeno Peppers/ Black Beans/ Salsa,Vegetarian,Nachos topped with melted cheese/ jalapenos/ black beans/ and salsa.,12:00,16:00,0,0
+Entre,Cheeseburger,12.99,FALSE,Beef Patty/ Bun/ Lettuce/ Tomato/ Onion/ American Cheese,Beef/ Sandwiches,Classic cheeseburger served with fries.,12:00,16:00,0,0
+Entre,Grilled Chicken Sandwich,11.99,TRUE,Chicken Breast/ Bun/ Lettuce/ Tomato/ Onion,Poultry/ Sandwiches,Grilled chicken breast served with fries.,12:00,16:00,0,0
+Entre,Veggie Burger,11.99,TRUE,Vegetable Patty/ Bun/ Lettuce/ Tomato/ Onion/ Swiss Cheese,Vegetarian/ Sandwiches,Vegetarian patty made with black beans and served with fries.,12:00,16:00,0,0
+Entre,Caesar Salad,9.99,TRUE,Romaine Lettuce/ Parmesan Cheese/ Croutons/ Caesar Dressing,Vegetarian,Classic Caesar salad topped with parmesan cheese and croutons.,12:00,16:00,0,0
+Entre,Fish Tacos,13.99,TRUE,Cod/ Tortillas/ Cabbage/ Pico de Gallo/ Lime Crema,Seafood/ Tacos,Grilled fish tacos with cabbage slaw/ pico de gallo/ and lime crema.,12:00,16:00,0,0
+Desert,Chocolate Cake,6.99,TRUE,Flour/ Sugar/ Cocoa Powder/ Baking Powder/ Eggs/ Milk/ Butter/ Chocolate Chips,Chocolate/ Cake,Classic chocolate cake with chocolate chips.,12:00,16:00,0,0
+Desert,Apple Pie,5.99,TRUE,Apples/ Flour/ Butter/ Sugar/ Cinnamon,Pie/ Fruits,Classic apple pie with a flaky crust.,12:00,16:00,0,0
+Appetizer,Fried Calamari,10.99,TRUE,Calamari/ Flour/ Garlic/ Salt/ Pepper,Seafood,Crispy fried calamari served with a side of marinara sauce,16:00,20:00,0,0
+Appetizer,Stuffed Mushrooms,8.99,TRUE,Mushrooms/ Bread crumbs/ Parmesan cheese/ Garlic/ Olive oil,Vegetarian,Baked stuffed mushrooms with a savory breadcrumb and Parmesan cheese filling,16:00,20:00,0,0
+Appetizer,Spinach Artichoke Dip,9.99,TRUE,Spinach/ Artichoke hearts/ Cream cheese/ Parmesan cheese/ Garlic,Vegetarian,Creamy dip made with spinach/ artichoke hearts/ and Parmesan cheese served with toasted bread,16:00,20:00,0,0
+Appetizer,Lobster Bisque,12.99,TRUE,Lobster/ Cream/ Butter/ Onions/ Carrots/ Celery,Seafood,Rich and creamy soup made with fresh lobster meat,16:00,20:00,0,0
+Appetizer,Grilled Octopus,15.99,TRUE,Octopus/ Olive oil/ Lemon juice/ Garlic/ Salt/ Pepper,Seafood,Grilled octopus served with a side of lemon-garlic sauce,16:00,20:00,0,0
+Entre,Steak Frites,22.99,TRUE,Steak/ Fries/ Butter/ Garlic/ Salt/ Pepper,Meat,Grilled sirloin steak served with a side of crispy French fries,16:00,20:00,0,0
+Entre,Chicken Parmesan,18.99,TRUE,Chicken breast/ Mozzarella cheese/ Parmesan cheese/ Tomato sauce/ Spaghetti,Chicken,Breaded and fried chicken breast topped with melted Mozzarella cheese and served with spaghetti and tomato sauce,16:00,20:00,0,0
+Entre,Seafood Paella,28.99,TRUE,Shrimp/ Clams/ Mussels/ Calamari/ Chorizo/ Rice/ Saffron/ Peas/ Onions/ Garlic,Seafood,Traditional Spanish dish made with saffron-infused rice and a variety of seafood and meat,16:00,20:00,0,0
+Entre,Eggplant Parmesan,16.99,FALSE,Eggplant/ Mozzarella cheese/ Parmesan cheese/ Tomato sauce/ Spaghetti,Vegetarian,Breaded and fried eggplant topped with melted Mozzarella cheese and served with spaghetti and tomato sauce,16:00,20:00,0,0
+Entre,Beef Wellington,34.99,FALSE,Beef tenderloin/ Puff pastry/ Mushrooms/ Prosciutto/ Thyme/ Egg yolk,Meat,Classic dish made with beef tenderloin wrapped in puff pastry and filled with mushrooms and prosciutto,16:00,20:00,0,0
+Desert,New York Cheesecake,8.99,TRUE,Cream cheese/ Sugar/ Sour cream/ Vanilla extract/ Eggs/ Graham cracker crust,Dessert,Classic cheesecake with a graham cracker crust and topped with whipped cream,16:00,20:00,0,0
+Desert,Chocolate Lava Cake,9.99,TRUE,Flour/ Sugar/ Cocoa powder/ Butter/ Eggs/ Chocolate chips/ Vanilla extract,Dessert,Warm chocolate cake with a gooey/ melted chocolate center and served with vanilla ice cream,16:00,20:00,0,0
+Drink,Coca-Cola,2.5,TRUE,Carbonated Water/ High Fructose Corn Syrup/ Caramel Color/ Phosphoric Acid/ Natural Flavors/ Caffeine,Soft Drinks,Classic Coca-Cola,08:00,12:00,330,0
+Drink,Fresh Orange Juice,5,TRUE,Fresh Orange Juice,Non-Alcoholic Beverages,Made from freshly squeezed oranges,08:00,12:00,250,0
+Drink,Iced Tea,3.5,FALSE,Black Tea/ Lemon Juice/ Honey/ Ice,Non-Alcoholic Beverages,Iced tea with a touch of honey,08:00,20:00,500,0
+Drink,Margarita,8,TRUE,Tequila/ Lime Juice/ Triple Sec/ Salt,Alcoholic Beverages,Classic tequila cocktail with a salted rim,16:00,20:00,350,0.1
+Drink,Mojito,7.5,TRUE,White Rum/ Lime Juice/ Mint Leaves/ Sugar/ Club Soda,Alcoholic Beverages,A refreshing blend of lime and mint,12:00,20:00,350,0.08
+Drink,Old Fashioned,9,TRUE,Bourbon Whiskey/ Angostura Bitters/ Sugar/ Water/ Orange Peel,Alcoholic Beverages,A classic cocktail made with bourbon whiskey and bitters,15:00,20:00,250,0.3
+Drink,Piña Colada,8.5,TRUE,White Rum/ Pineapple Juice/ Coconut Cream,Alcoholic Beverages,A tropical blend of pineapple and coconut,08:00,20:00,400,0.12
+Drink,Red Wine,7,TRUE,Red Grapes,Alcoholic Beverages,A classic red wine,08:00,20:00,150,0.12
+Drink,White Wine,8,TRUE,White Grapes,Alcoholic Beverages,A classic white wine,08:00,20:00,150,0.08
